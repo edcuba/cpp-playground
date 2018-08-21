@@ -1,2 +1,1 @@
-# cpp-playground
-C++ algorithm playground
+# C++ playground
